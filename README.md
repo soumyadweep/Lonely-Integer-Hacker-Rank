@@ -20,6 +20,6 @@ The first line contains a single integer, , the number of integers in the array.
 The second line contains  space-separated integers that describe the values in .
 
 Constraints
-1 <= n < 100
+$1 \leq n < 100$
 It is guaranteed that  is an odd number and that there is one unique element.
-0 <= a[i] <= 100, where 0 <= i <n.
+$0 \leq a[ i ] \leq 100$ ,where $0 \leq i < n$.
